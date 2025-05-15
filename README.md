@@ -41,4 +41,4 @@ If you get error after entering the command: 'pip install -r requirements.txt' i
 
 ### TYPE &help ON DISCORD TO SEE FEATURES OF YOU BOT...
 
-# This Project Is Made By: Harry Uchiha.
+# This Project Is Made By: TRgaming3955.
