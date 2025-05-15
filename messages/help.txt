@@ -1,4 +1,4 @@
-# 🎂 __Fedded Selfbot__ 🎂
+# 🎂 __TOKIR Selfbot__ 🎂
 `🎁` **+autoreact <on or off> :** It will toggle on or off the autoreact.
 `🎁` **+spam <ammount> <message> :** It will spams the message according to the given ammount.
 `🎁` **+afk <reason> :** Sets your AFK to the given reason.
@@ -29,4 +29,4 @@
 `🎀` **+react <user> <emoji> :** Start adding the reaction of the given emoji to all the messages of the mentioned user.
 `🎀` **+react_off:** Turn off the auto add reaction command.
 
-`🍳` **Made by `z_zx` **
+`🍳` **Made by `TRgaming3955` **
